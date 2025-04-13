@@ -1,4 +1,4 @@
-This project is about object detection lightbulb,matchstick,monitor,lion,gaming console where is detection these object through webcam  or recorded video 
+This project is about object like detection lightbulb,matchstick,monitor,lion,gaming console where is detection these object through webcam  or recorded video 
 I have learn and explore new things like coco dataset(Common Objects in Context) and libraries like OwlViTProcessor 
 
 
